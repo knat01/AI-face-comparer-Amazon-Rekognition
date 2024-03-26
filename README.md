@@ -1,4 +1,7 @@
-AI Face Comparer with Amazon Rekognition
+**AI Face Comparer with Amazon Rekognition**
+
+
+
 This project is a Python script that utilizes Amazon Rekognition, an AWS service powered by deep learning, to compare faces within user-uploaded images against a collection of reference images stored in Amazon S3 buckets. It provides an accurate and efficient solution for face matching tasks with adjustable confidence thresholds.
 
 Functionality
