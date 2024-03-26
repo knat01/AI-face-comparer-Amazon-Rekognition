@@ -1,0 +1,4 @@
+{
+  "python.envFile": "${workspaceFolder}/.env",
+  "GOOGLE_APPLICATION_CREDENTIALS": "${workspaceFolder}/Secret/service-account-key.json"
+}
